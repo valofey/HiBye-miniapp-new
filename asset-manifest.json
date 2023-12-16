@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/HiBye-miniapp-new/static/css/main.e6c13ad2.css",
-    "main.js": "/HiBye-miniapp-new/static/js/main.55d0c975.js",
+    "main.js": "/HiBye-miniapp-new/static/js/main.bf3ffe8b.js",
     "index.html": "/HiBye-miniapp-new/index.html",
     "main.e6c13ad2.css.map": "/HiBye-miniapp-new/static/css/main.e6c13ad2.css.map",
-    "main.55d0c975.js.map": "/HiBye-miniapp-new/static/js/main.55d0c975.js.map"
+    "main.bf3ffe8b.js.map": "/HiBye-miniapp-new/static/js/main.bf3ffe8b.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.55d0c975.js"
+    "static/js/main.bf3ffe8b.js"
   ]
 }
